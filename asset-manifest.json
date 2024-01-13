@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.3c1a7909.css",
+    "main.js": "/portafolio/static/js/main.500e948a.js",
+    "static/js/787.9228799f.chunk.js": "/portafolio/static/js/787.9228799f.chunk.js",
+    "static/media/Cv.jpg": "/portafolio/static/media/Cv.62b6b17e361e2e7fadbf.jpg",
+    "static/media/tailwind.png": "/portafolio/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/ajax.png": "/portafolio/static/media/ajax.d9c180ca629ff961f596.png",
+    "static/media/python.png": "/portafolio/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/php.png": "/portafolio/static/media/php.502c1a901665a0453b5c.png",
+    "static/media/postgresql.png": "/portafolio/static/media/postgresql.4a8c66c90ba3b5e27f7c.png",
+    "static/media/galeria.PNG": "/portafolio/static/media/galeria.d47b83126ba083042b0e.PNG",
+    "static/media/axios.png": "/portafolio/static/media/axios.c112ac0f1ca6ec359d6d.png",
+    "static/media/dolar.jpg": "/portafolio/static/media/dolar.de6d911d8b4fea48597a.jpg",
+    "static/media/react.png": "/portafolio/static/media/react.214af24d7f042fd76977.png",
+    "static/media/css.png": "/portafolio/static/media/css.9407ad358cdb22b8b1f0.png",
+    "static/media/django.png": "/portafolio/static/media/django.b2cbe0e24abd890759f3.png",
+    "static/media/html.png": "/portafolio/static/media/html.9b674892ef5960bafca3.png",
+    "static/media/laravel.png": "/portafolio/static/media/laravel.279e3fcb19d440713887.png",
+    "static/media/bootstrap.png": "/portafolio/static/media/bootstrap.ff4ba441ec3324145fde.png",
+    "static/media/mysql.png": "/portafolio/static/media/mysql.a04abbf76b39676bc4d9.png",
+    "static/media/dbeaver.png": "/portafolio/static/media/dbeaver.35afdc7675e9ad49bc22.png",
+    "static/media/javascript.png": "/portafolio/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "index.html": "/portafolio/index.html",
+    "main.3c1a7909.css.map": "/portafolio/static/css/main.3c1a7909.css.map",
+    "main.500e948a.js.map": "/portafolio/static/js/main.500e948a.js.map",
+    "787.9228799f.chunk.js.map": "/portafolio/static/js/787.9228799f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1a7909.css",
+    "static/js/main.500e948a.js"
+  ]
+}
