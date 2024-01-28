@@ -11,6 +11,7 @@ import dolar from '../../assets/dolar.jpg';
 import axios from '../../assets/axios.png';
 import vue from '../../assets/Vue.png';
 import mysql from '../../assets/mysql.png';
+import area from '../../assets/area.png';
 
 
 export function Proyectos() {
@@ -85,6 +86,33 @@ export function Proyectos() {
                     </div>
                 </div>
                 <img src={dolar} class="mt-5 w-full cel:w-11/12 h-full border-4 border-black shadow-lg shadow-neutral-800" />
+                {/* ------------------------------------------------------------------------------------------------------ */}
+                <h4 class="text-orange-200 text-2xl font-bold mt-20">Astronomia area</h4>
+                <p class="text-white text-lg cel:text-sm cel:font-thin">Proyecto Front-end el cual tiene información sobre los planetas y el sistema solar. En este sitio web
+                se puede ver los radios de los planetas, dias que transcurren en estos mismos, su superficie, etc.</p>
+                <div class="flex items-center justify-center mt-4 cel:flex-wrap">
+                    <div class="flex items-center justify-center w-24 h-8 bg-orange-600 border-2 border-neutral-800 rounded-full">
+                        <img src={html} class="w-5 h-5" />
+                        <span class="text-white font-medium ml-1">Html</span>
+                    </div>
+                    <div class="ml-2 flex items-center justify-center w-20 h-8 bg-blue-700 border-2 border-neutral-800 rounded-full">
+                        <img src={css} class="w-5 h-5" />
+                        <span class="text-white font-medium ml-1">Css</span>
+                    </div>
+                    <div class="ml-2 flex items-center justify-center w-32 h-8 bg-yellow-400 border-2 border-neutral-800 rounded-full">
+                        <img src={javascript} class="w-5 h-5" />
+                        <span class="text-white font-medium ml-1">Javascript</span>
+                    </div>
+                    <div class="ml-2 flex items-center justify-center w-20 h-8 bg-green-400 border-2 border-neutral-800 rounded-full">
+                        <img src={vue} class="w-5 h-5" />
+                        <span class="text-white font-medium ml-1">Vue</span>
+                    </div>
+                    <div class="ml-2 flex items-center justify-center w-32 h-8 bg-cyan-800 border-2 border-neutral-800 rounded-full">
+                        <img src={tailwind} class="w-7 h-5" />
+                        <span class="text-white font-medium ml-1">Tailwind</span>
+                    </div>
+                </div>
+                <img src={area} class="mt-5 w-full cel:w-11/12 h-full border-4 border-black shadow-lg shadow-neutral-800" />
                 {/* ------------------------------------------------------------------------------------------------------ */}
             </div>
         </section>
